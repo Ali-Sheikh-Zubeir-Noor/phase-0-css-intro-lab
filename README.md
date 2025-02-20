@@ -93,8 +93,7 @@ work towards that. Set the following _properties_ to specific _values_. Make
 sure to, after each update, look at `index.html` in the browser to see how it
 has changed:
 
-- Set the `background` of the `<body>` element (whole document) to `#00b3e6`
-  (light blue)
+- Set the `background` of the `<body>` element (whole document) to `# (light blue)
 - Set the `<div>` elements:
   - `width` to `700px`
   - `margin` to `auto` (centers our element)
